@@ -7,6 +7,7 @@ test("Test resultado = 0 + number1 = 2 ", () =>{
 //Test malo
 test("Test resultado = 0 + number1 = 2 ", () =>{
     //probar
+    
     expect(crazy(0,2)).toBe(5);
 });
 
